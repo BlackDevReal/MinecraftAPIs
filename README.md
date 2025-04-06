@@ -14,10 +14,10 @@ A curated list of **unofficial Minecraft APIs** that provide player data, skins,
 - Description: Skin renders, avatars.
 
 ### Mineatar
-- URL: `https://api.mineatar.io/
+- URL: `https://api.mineatar.io/`
 - Documentation: `https://mineatar.io/docs`
 - Description: better headrendering
-
+ 
 ### Crafatar
 - URL: `https://crafatar.com/avatars/<uuid>`
 - Description: CDN for skins and avatars.
